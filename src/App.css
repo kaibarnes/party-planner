@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  font-family: 'Saira', sans-serif;
+}
+
+.App-header {
+  padding: 50px;
+  color: white;
+  font-size: 6rem;
+  margin: 0;
+}
+
+.Form{
+  margin: 0 auto 50px auto;
+  max-width: 600px;
+}
+
+.Form-input{
+  width: 200px;
+  margin-right: 10px;
+  height: 30px;
+}
